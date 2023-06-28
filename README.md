@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS From JavaScript Mastery Course.
+
+
+<img width="1280" alt="website_img" src="https://github.com/julien-muke/cars_showcase/assets/110755734/51a83bc2-43e4-4ef8-9a0e-56d039c9c430">
+
+
+### This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). A modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router.
+
+Alongside building this application, i've also learned how to:
+- Use Next.js 13 App Router and Server Side Rendering
+- Implement Advanced Search Functionality
+- Create Filtering Capabilities
+- Optimize Metadata and SEO
+- Create custom filter, combobox, and modal elements
+- Maintain a well-organized file and folder structure.
+- Embrace the principles of writing clean code.
+
+## FOR MORE COURSES, CHECK OUT => https://jsmastery.pro/masterclass 
 
 ## Getting Started
 
